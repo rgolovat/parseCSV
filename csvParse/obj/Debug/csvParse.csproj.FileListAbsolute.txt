@@ -1,0 +1,6 @@
+c:\users\hommy\documents\visual studio 2015\Projects\csvParse\csvParse\bin\Debug\csvParse.dll
+c:\users\hommy\documents\visual studio 2015\Projects\csvParse\csvParse\bin\Debug\csvParse.pdb
+c:\users\hommy\documents\visual studio 2015\Projects\csvParse\csvParse\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\hommy\documents\visual studio 2015\Projects\csvParse\csvParse\obj\Debug\csvParse.csprojResolveAssemblyReference.cache
+c:\users\hommy\documents\visual studio 2015\Projects\csvParse\csvParse\obj\Debug\csvParse.dll
+c:\users\hommy\documents\visual studio 2015\Projects\csvParse\csvParse\obj\Debug\csvParse.pdb
