@@ -11,7 +11,7 @@ namespace csvParse
     {
         public static List<string> parseCsv()
         {
-            var dict = File.ReadLines("VTS.csv").Select(line => line.Split(',')).SelectMany(s => s).ToList();
+            var dict = File.ReadLines("VTS data 2017-01-17(11_10_03).csv").Select(line => line.Split(',')).SelectMany(s => s).ToList();
 
 
  return dict;
